@@ -1,4 +1,5 @@
 # MyParking 
+![logo](https://github.com/user-attachments/assets/e5e4cf63-b62e-442b-adef-8c2039a7008a)
 
 A simple Streamlit app to manage parking slots, reservations, and cancellations.
 
